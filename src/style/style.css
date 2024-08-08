@@ -1,0 +1,21 @@
+:root {
+    --slate-8: #1e293b;
+    --sky-3: #7dd3fc;
+    border: 0;
+    margin: 0;
+}
+* {
+    border: 0;
+    margin: 0;
+}
+
+
+.header {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: var(--slate-8);
+    color: var(--sky-3);
+}
+.header > div {
+    padding: 0.5rem;
+}
