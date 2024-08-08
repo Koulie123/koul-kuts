@@ -1,0 +1,2 @@
+export deault class SaleItem {
+}
