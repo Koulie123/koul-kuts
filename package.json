@@ -14,12 +14,10 @@
     "author": "",
     "license": "ISC",
     "devDependencies": {
-<<<<<<< HEAD
         "css-loader": "^7.1.2",
         "html-webpack-plugin": "^5.6.0",
         "style-loader": "^4.0.0",
         "webpack": "^5.92.0",
-=======
         "@eslint/js": "^9.8.0",
         "css-loader": "^7.1.2",
         "eslint": "^9.8.0",
@@ -28,7 +26,6 @@
         "html-webpack-plugin": "^5.6.0",
         "style-loader": "^4.0.0",
         "webpack": "^5.93.0",
->>>>>>> 9637e1551375bbfe517b46ee6f2fcbe847ddb9df
         "webpack-cli": "^5.1.4",
         "webpack-dev-server": "^5.0.4"
     }
