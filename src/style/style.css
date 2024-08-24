@@ -19,3 +19,9 @@
 .header > div {
     padding: 0.5rem;
 }
+.footer {
+    background-color: var(--slate-8);
+    color: var(--sky-3);
+    display: flex;
+    justify-content: center;
+}
